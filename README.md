@@ -8,11 +8,11 @@ In my free time, I like climbing.
 <br />
 
 📈 **My GitHub Stats:**  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Grainbox&show_icons=true&hide_border=true)
 
 🔝 **Top Languages:**  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grainbox&layout=compact)](https://github.com/Grainbox/Grainbox)
 
 🎞 **GitHub History:**  
-![Your github history](https://skyline.github.com/YOUR_GITHUB_USERNAME/YEAR)
+![Your github history](https://skyline.github.com/Grainbox/2023)
 
