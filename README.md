@@ -1,16 +1,18 @@
-### Hi there 👋
+![Header Image](./HeaderImage.png)
 
-<!--
-**Grainbox/Grainbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Tom Daniel! 👋
 
-Here are some ideas to get you started:
+I am a developer with a passion for all unknown technologies. I love game design, and I will be studying it next year in Korea. I also like Devops and web backend development.
+In my free time, I like climbing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+📈 **My GitHub Stats:**  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true)
+
+🔝 **Top Languages:**  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME)
+
+🎞 **GitHub History:**  
+![Your github history](https://skyline.github.com/YOUR_GITHUB_USERNAME/YEAR)
+
