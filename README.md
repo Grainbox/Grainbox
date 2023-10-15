@@ -12,7 +12,3 @@ In my free time, I like climbing.
 
 🔝 **Top Languages:**  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grainbox&layout=compact)](https://github.com/Grainbox/Grainbox)
-
-🎞 **GitHub History:**  
-![Your github history](https://skyline.github.com/Grainbox/2023)
-
