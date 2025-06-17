@@ -2,8 +2,7 @@
 
 ---
 
-# 💫 About Me:
-🎤 **About Me:**  
+# 🎤 **About Me:**  
 Hi, I’m Tom Daniel! I’m a French student at Epitech University, currently on a journey studying video game development at Keimyung University in South Korea for my 4th year.
 
 ---
