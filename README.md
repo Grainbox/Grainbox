@@ -15,5 +15,6 @@ Hi, I’m Tom Daniel! I’m a French student at Epitech University, currently on
 🧗 **Hobbies:**  
 When I’m not coding, you’ll find me bouldering at the climbing gym or enjoying the open road on my motorcycle. Both activities fuel my passion for challenge and adventure.
 
-📫 **Contact & Links:**  
+📫 **Contact & Links:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/tom-daniel)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tom.daniel@epitech.eu)
