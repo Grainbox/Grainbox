@@ -1,7 +1,3 @@
-![Header Image](./HeaderImage.png)
-
----
-
 # 👋 About Me  
 Hi, I’m Tom Daniel!  
 I’m a French student in my 5th year at **Epitech University**, currently doing my internship at **Secufor**.  
