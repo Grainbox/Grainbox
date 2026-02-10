@@ -1,6 +1,6 @@
 # 👋 About Me  
 Hi, I’m Tom Daniel!  
-I’m a French student in my 5th year at **Epitech University**, currently doing my internship at **Secufor**.  
+I’m a French student in my 5th year at **Epitech University**.  
 Passionate about game development, I’m working on **NPCForge** (an Unreal Engine plugin for smarter NPCs) and building a **custom FiveM RolePlay server**.
 
 ---
