@@ -19,4 +19,4 @@ I enjoy **bouldering** and **motorcycling**, both fueling my love for challenge 
 
 # 📫 Contact  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-daniel)  
-- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tom.daniel@epitech.eu)
+- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tom.daniel.dev@gmail.com)
